@@ -1,0 +1,16 @@
+C:\Users\79160\Desktop\homework#8\sort_stroka\bin\Debug\net6.0\sort_stroka.exe
+C:\Users\79160\Desktop\homework#8\sort_stroka\bin\Debug\net6.0\sort_stroka.deps.json
+C:\Users\79160\Desktop\homework#8\sort_stroka\bin\Debug\net6.0\sort_stroka.runtimeconfig.json
+C:\Users\79160\Desktop\homework#8\sort_stroka\bin\Debug\net6.0\sort_stroka.dll
+C:\Users\79160\Desktop\homework#8\sort_stroka\bin\Debug\net6.0\ref\sort_stroka.dll
+C:\Users\79160\Desktop\homework#8\sort_stroka\bin\Debug\net6.0\sort_stroka.pdb
+C:\Users\79160\Desktop\homework#8\sort_stroka\obj\Debug\net6.0\sort_stroka.GlobalUsings.g.cs
+C:\Users\79160\Desktop\homework#8\sort_stroka\obj\Debug\net6.0\sort_stroka.csproj.AssemblyReference.cache
+C:\Users\79160\Desktop\homework#8\sort_stroka\obj\Debug\net6.0\sort_stroka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79160\Desktop\homework#8\sort_stroka\obj\Debug\net6.0\sort_stroka.AssemblyInfoInputs.cache
+C:\Users\79160\Desktop\homework#8\sort_stroka\obj\Debug\net6.0\sort_stroka.AssemblyInfo.cs
+C:\Users\79160\Desktop\homework#8\sort_stroka\obj\Debug\net6.0\sort_stroka.csproj.CoreCompileInputs.cache
+C:\Users\79160\Desktop\homework#8\sort_stroka\obj\Debug\net6.0\sort_stroka.dll
+C:\Users\79160\Desktop\homework#8\sort_stroka\obj\Debug\net6.0\ref\sort_stroka.dll
+C:\Users\79160\Desktop\homework#8\sort_stroka\obj\Debug\net6.0\sort_stroka.pdb
+C:\Users\79160\Desktop\homework#8\sort_stroka\obj\Debug\net6.0\sort_stroka.genruntimeconfig.cache

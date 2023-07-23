@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "sort_stroka/1.0.0": {
+        "runtime": {
+          "sort_stroka.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sort_stroka/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
